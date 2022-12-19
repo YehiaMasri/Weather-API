@@ -1,0 +1,25 @@
+.all-Day{
+  padding: 4rem 0rem 9rem 0rem;
+  display: flex;
+  justify-content: space-between;
+  flex: 0 auto;
+  height: 100px;
+  width: 50%;
+margin: 30px auto 0 auto;
+}
+
+.time-instant {
+  min-height: 250px ;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.time {
+  text-align: center;
+  display: block;
+}
+
+.bottom-img{
+  width: 180%;
+}
